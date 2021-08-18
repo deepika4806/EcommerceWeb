@@ -4,15 +4,16 @@ STEPS TO SETUP AND RUN CODE
 
 Download XAMPP Server and start it.
 
-clone the repository in vs code by creating folder in LocalDisc:C -> xampp -> htdocs
+1. clone the repository in vs code by creating folder in LocalDisc:C -> xampp -> htdocs
 
-import the database from the folder to MySql (phpmyAdmin)
+2. import the database from the folder to MySql (phpmyAdmin)
 
-run the code in your web browser with the url Localhost/foldername/innerfoldername/index.php
+3. run the code in your web browser with the url Localhost/foldername/innerfoldername/index.php
 
-open the admin side in your web browser with the url Localhost/foldername/innerfoldername/admin/login.php
+4. open the admin side in your web browser with the url Localhost/foldername/innerfoldername/admin/login.php
 
 LOGIN CREDENTIALS for admin
 
 USERNAME -- admin
+
 Password -- admmin
