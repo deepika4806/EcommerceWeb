@@ -17,3 +17,5 @@ LOGIN CREDENTIALS for admin
 USERNAME -- admin
 
 Password -- admmin
+
+![image](https://user-images.githubusercontent.com/65919608/129863369-ba9a988f-147b-4ee2-9970-9f1289e0a305.png)
